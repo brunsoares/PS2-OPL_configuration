@@ -289,4 +289,4 @@ Mantenha cópias de segurança periódicas da pasta `VMC`.
 - [ConsoleMods - Open PS2 Loader](<https://consolemods.org/wiki/PS2:Open_PS2_Loader_(OPL)>)
 - [FunTuna - GitHub](https://github.com/MechaResearch/MechaPwn)
 - [Python - Downloads](https://www.python.org/downloads/)
-- [Rooms - PS2](https://romsfun.com/roms/)
+- [Rooms - PS2](https://romsfun.com/roms/playstation-2/)
