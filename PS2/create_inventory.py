@@ -2,8 +2,8 @@ import os
 import re
 import csv
 
-ORIGEM = r"B:"
-RELATORIO = r"B:\list_ps2_iso.csv"
+ORIGEM = r"B:<diretorio_instalacao_arquivos_iso>"
+RELATORIO = r"B:<diretorio_instalacao_arquivos_iso>\list_ps2_iso.csv"
 
 SECTOR_SIZE = 2048
 

@@ -3,7 +3,7 @@ import re
 from pathlib import Path
 
 # Configuração de caminhos e padrões
-BASE = Path(r"B:")
+BASE = Path(r"B:<diretorio_instalacao_arquivos_iso>")
 CSV_PATH = BASE / "list_ps2_iso.csv"
 PASTAS_JOGOS = [BASE / "CD", BASE / "DVD"]
 
