@@ -85,4 +85,5 @@ Ao finalizar, a pasta `iso_convertida` conterá os jogos no formato PBP, organiz
 ## Referências
 
 - [PsxPackager - Github](https://github.com/RupertAvery/PSXPackager)
-- [Rooms - PS1](https://romsfun.com/roms/playstation/)
+- [Roms - PS1](https://romsfun.com/roms/playstation/)
+- [Adrenaline - PSVita](https://adrenaline.sarcasticat.com/docs)
